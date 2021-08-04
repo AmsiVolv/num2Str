@@ -5,6 +5,8 @@
 	"autoload": {
 		"psr-4": {"Amsi\\Libs\\Num2str\\": "src/"}
 	},
+	"keywords": ["num2str", "Number to string convert"],
+	"homepage": "https://github.com/AmsiVolv/num2Str",
 	"license": "MIT",
 	"authors": [
 		{
